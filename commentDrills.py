@@ -1,23 +1,44 @@
 '''
-Created on Oct 31, 2020
-
-@author: ITAUser
+For this assignment you should read the task, then below the task do what 
+it asks you to do.
+EXAMPLE TASK:
 '''
-#single line comment
+#EX) Make a single line comment
 
-
-'''
-multi lane comments
-al;sdhf;iwahg;lkdsaj
-asdjfah;sdfjsad;UnicodeNFKCFileTestsasd
+#This is a single line comment
 
 '''
-var = 6 #comment after it 
- #single line comment 
- 
- '''
- laksjdg;alsdkjfas;lkdfj
- multi lane comment 
- aidsjfk;asldkfjas;AsyncYieldFromas
- 
- '''
+END OF EXAMPLE
+'''
+
+'''
+START HERE
+'''
+
+#1) Make a single line comment.
+
+# single line comment 
+
+#2) Make a multi-line comment.
+
+#here is a 
+#multi-line comment 
+
+
+#3) Make a variable. Then put a comment after it, on the same line.
+
+''' 
+volume = depth * area 
+
+'''
+#comment after it 
+
+#4) Make a single line comment.
+
+# a single line comment 
+
+#5) Make a multi-line comment.
+
+# a multi-line 
+#comment 
+#multi- line comment 
